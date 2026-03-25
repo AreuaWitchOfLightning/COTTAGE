@@ -6250,6 +6250,11 @@ hash = "b6a72e03796007d5a6eabc4451753d0cb3fcd162c0c5da44be595ae22627f30e"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
@@ -6762,6 +6767,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
 metafile = true
 
 [[files]]
