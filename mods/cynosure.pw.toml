@@ -1,0 +1,13 @@
+name = "Cynosure"
+filename = "cynosure-0.1.15-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56156e143c6ce69dd3fff9bed34b2b75a0cebbc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7465654
+project-id = 1259952

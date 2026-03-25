@@ -6260,6 +6260,11 @@ hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
 metafile = true
 
 [[files]]
+file = "mods/create-estrogen.pw.toml"
+hash = "873aae2177ee4ef91e4ef1fc959ad9797850be1e8af7443148488a3681e13f85"
+metafile = true
+
+[[files]]
 file = "mods/create-factory-logistics.pw.toml"
 hash = "3dd7678b99f53fd212b81aa482c96d4baba4bc00291148c1bc2e7d5411ab6504"
 metafile = true
@@ -6325,6 +6330,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/cynosure.pw.toml"
+hash = "fcbe3c60d416694da7ecc84daa65cb896282cb5a45447c5c028b6c93534b6a48"
+metafile = true
+
+[[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "fb0e58c2888972855f26ba60aadd1a69bffaca14e86d61ac417261dbd08d197d"
 metafile = true
@@ -6377,6 +6387,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "729157bf616f1b1e243f26ca367de77ebc19fecda4e0655e74e241838316dd87"
 metafile = true
 
 [[files]]

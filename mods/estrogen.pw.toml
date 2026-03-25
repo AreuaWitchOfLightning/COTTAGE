@@ -1,0 +1,13 @@
+name = "Estrogen"
+filename = "estrogen-5.0.8+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "029053f86d28b51b01a5d394811c2bf5c0a6108d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7531004
+project-id = 850410
