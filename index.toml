@@ -6425,6 +6425,21 @@ hash = "265ce1d2d413eeffb72ce4b372b4aa12469894e8bdd9da16e53b1b6c9257b2bb"
 metafile = true
 
 [[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "6b1bf52ca9ee2a4de79a4e9ed3e85c3ef62566c92047f06fe8c68b661dadcff6"
+metafile = true
+
+[[files]]
+file = "mods/exposure-village-chest-addon.pw.toml"
+hash = "6311f09fcc3ade9a35adb856b765c00aaf5a4609d7ef11281fac9d7f0aeded16"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "2b7e34feead35203c6637b7c8afb49cb823ff6ddade568b131ca07c35ad02845"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "978586ac2d00b1117b6af9a977dd8fa7d1e29b683aa0d13fc0f6455d7cade48c"
 metafile = true
@@ -8862,6 +8877,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/exposure-create-compatibility.pw.toml"
+hash = "2a86f36458c3e75e19d04397044ac433cf7adf63c4ec00239c467d2279e8dcd2"
 metafile = true
 
 [[files]]

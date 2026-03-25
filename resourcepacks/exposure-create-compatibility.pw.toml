@@ -1,0 +1,13 @@
+name = "Exposure-Create Compatibility"
+filename = "Exposure-CreateCompatibility.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d396fb9049f7664a1ed18fbcd8a8588e4d2c00a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5371732
+project-id = 1024724

@@ -1,0 +1,13 @@
+name = "Exposure: Polaroid"
+filename = "exposure_polaroid-forge-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7d61cf3f12130901d4cbc584e967e96ad695828"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7661234
+project-id = 1207005
