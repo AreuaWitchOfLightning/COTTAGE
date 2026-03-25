@@ -6180,6 +6180,11 @@ file = "mods/cc-tweaked-1.20.1-forge-1.117.0.jar"
 hash = "b6eceea92d5d0e245867499a5132022de469d45010184c05c937a2dcf9f0291d"
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "c3af28b2f1c49476b026443f36bcbde377443381af551b31a0bf65097795bacd"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "a974b0d52ac0ee3a33219665b0a01a73b6613869b4129d3a6e6ee34da06e753b"
 metafile = true
@@ -6242,6 +6247,11 @@ metafile = true
 [[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "2dce962341375002f5937a871778cd0fc06d6bda41a3bdba8940a611b25dcd32"
+metafile = true
+
+[[files]]
+file = "mods/create-big-contraptions.pw.toml"
+hash = "edbc007f194b0c91b46f4ff74147078981988d246ea336b4b2fc45767bc70583"
 metafile = true
 
 [[files]]
@@ -6377,6 +6387,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
+metafile = true
+
+[[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
@@ -6647,6 +6662,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
+metafile = true
+
+[[files]]
+file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
+hash = "23e7da4c1aca4aef6e55b62042f862fbc390b4fa6da76be1caa831f03e1a9450"
 metafile = true
 
 [[files]]
