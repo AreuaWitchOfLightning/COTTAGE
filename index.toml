@@ -6575,6 +6575,11 @@ hash = "73f0fb77d1827b8571a4a17f39920b813c356fe2c8647ae1195de50792e5bc7c"
 metafile = true
 
 [[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "1755530acc84b0e9152cbf68da07fc239b78ac5357e552d1fbb99483bcb6c24e"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "58170607da6517dc43eeb5a664dea9dec7d96a8ad9e99d2623c2a5a9099c91be"
 metafile = true
@@ -6997,11 +7002,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "f58f817a74f2b26fca9922263bf3f616deb0ee709212aa944ece857bf47a2d6e"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "32d07d192caa9459521c3b3bc21199ebe72d7f6cad9b3461e0b231180f46bb30"
 metafile = true
 
 [[files]]
