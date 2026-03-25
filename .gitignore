@@ -73,6 +73,13 @@ config/ichunutil/themes/
 config/gtceu.yaml
 defaultconfigs/ftbultimine/ftbultimine-*.snbt
 
+# Idea
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
 # Linux
 *~
 .fuse_hidden*

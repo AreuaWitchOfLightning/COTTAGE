@@ -1,0 +1,13 @@
+name = "COTTAGE"
+author = "dummies"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3597031e800be36e5cb2f1c87efb82eb5861134bf24c0efab0981cd3469f102"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
