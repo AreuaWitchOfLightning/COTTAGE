@@ -1,33 +1,26 @@
 # Minecraft
-local/
-saves/
-mods/
-logs/
-crash-reports/
-backups/
-resourcepacks/
-!resourcepacks/CABIN/
-server-resource-packs/
-screenshots/
-downloads/
-modernfix/
-fancymenu_data/
-ESM/
-panoramas/
+# local/
+# saves/
+# mods/
+# logs/
+# crash-reports/
+# backups/
+# resourcepacks/
+# !resourcepacks/CABIN/
+# server-resource-packs/
+# screenshots/
+# downloads/
+# modernfix/
+# fancymenu_data/
+# ESM/
+# panoramas/
 
-icon.png
-options.txt
-rhino.local.properties
-usercache.json
-usernamecache.json
-emi.json
-
-# Pakku
-build/
-!.pakku/
-!pakku.jar
-!pakku.json
-!pakku-lock.json
+# icon.png
+# options.txt
+# rhino.local.properties
+# usercache.json
+# usernamecache.json
+# emi.json
 
 # Node.js
 **/node_modules/
@@ -35,9 +28,6 @@ build/
 # dotenv
 .env
 
-# VSCode
-!/.vscode/*.code-workspace
-/.vscode/*
 
 # ProbeJS
 /kubejs/probe/
