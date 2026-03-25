@@ -1,0 +1,13 @@
+name = "Create: Security Program"
+filename = "create_security-0.1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2684d33617280d5459b5951310b6afbd54a29e84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6415839
+project-id = 1218836

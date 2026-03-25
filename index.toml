@@ -6295,6 +6295,11 @@ hash = "dbb3fbaf666652bfe0b0e6ada3e69f5af4b976c803d73312acf19e1c95c04de7"
 metafile = true
 
 [[files]]
+file = "mods/create-security-program.pw.toml"
+hash = "93cec5e6a0ac31b458194f02236ca1de942ca000ca25917e72929baaa207fe23"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
 metafile = true
