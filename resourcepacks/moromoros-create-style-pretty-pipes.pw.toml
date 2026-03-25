@@ -1,0 +1,13 @@
+name = "moromoro's create style Pretty Pipes"
+filename = "moromoro's_create_style_prettypipes.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fdd62c1f3e00b49139f64ffde3b19c1369e68b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5062291
+project-id = 967378

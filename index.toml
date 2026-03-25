@@ -6250,8 +6250,18 @@ hash = "b6a72e03796007d5a6eabc4451753d0cb3fcd162c0c5da44be595ae22627f30e"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "8d3f40c638fa0085a62a3ac477a3f2ed23e63af62da2cdf502183fa0bddbca7c"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
+metafile = true
+
+[[files]]
+file = "mods/create-factory-logistics.pw.toml"
+hash = "3dd7678b99f53fd212b81aa482c96d4baba4bc00291148c1bc2e7d5411ab6504"
 metafile = true
 
 [[files]]
@@ -6260,8 +6270,28 @@ hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "dbb3fbaf666652bfe0b0e6ada3e69f5af4b976c803d73312acf19e1c95c04de7"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
 
 [[files]]
@@ -6302,6 +6332,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "b752ffc66ce63f9629049111bf66f0373104631439d03d649cfddcbbeb94d5d9"
 metafile = true
 
 [[files]]
