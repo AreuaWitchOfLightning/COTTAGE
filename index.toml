@@ -6220,6 +6220,11 @@ hash = "f869b751559c243a2ca62968e9af8a2e3b5cc51b94835fbb8c7f2df95aaba3a9"
 metafile = true
 
 [[files]]
+file = "mods/complicated-bees.pw.toml"
+hash = "d5b78c08b1c7623b6929de52da8cfee08cb6e3755d13a2404ba90f0fe6147792"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
 metafile = true
