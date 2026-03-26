@@ -6555,6 +6555,11 @@ hash = "2fb8752ac57ddfc6457263f996bf95a880abf85af9346496d4048028f8a026c9"
 metafile = true
 
 [[files]]
+file = "mods/gag.pw.toml"
+hash = "335d4bb97365d11cd40d01d6851442f13902eaed1d2889eb03e11c2d5a05cc81"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
