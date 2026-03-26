@@ -1,6 +1,6 @@
 name = "Create Style Sophisticated Backpacks"
 filename = "CreateSophisticatedBackpacks.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

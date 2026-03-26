@@ -1,6 +1,6 @@
 name = "moromoro's create style Pretty Pipes"
 filename = "moromoro's_create_style_prettypipes.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
