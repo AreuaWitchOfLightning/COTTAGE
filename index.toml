@@ -34,7 +34,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "65b6c460e378bb29e5ac3d0150659c97255098c2c4f53a05842bdf665d4beaf7"
+hash = "69ab279fe36f6523943130f9cb39df91f40dd8eb2ed56b1de3d4e37909aca35b"
 
 [[files]]
 file = "CHANGELOG.md"
@@ -2208,6 +2208,11 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/applied-create.pw.toml"
+hash = "c621a9b4e21c6fa7229b94ed6f5380367166185089c6e423a5c4a42bd239b14b"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
 metafile = true
@@ -2244,7 +2249,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
+hash = "f6430b103501f2ca9b81b4fe85565bfae1eb4529dd14ce2aacc1e315981c76cf"
 metafile = true
 
 [[files]]
@@ -2347,8 +2352,13 @@ hash = "3c1407f824f0f68b2208f33d3959c4f6deea5089739624d788f862fbf91a5e2c"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "1d4ff345c756b272e6e0222bc731277c70b1195880ce5c35d0fe6806d22660fb"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "2dce962341375002f5937a871778cd0fc06d6bda41a3bdba8940a611b25dcd32"
+hash = "64fa8c639b74ac65b3a942841d2101d913af84cbd77cc26962dffbffa62343ad"
 metafile = true
 
 [[files]]
@@ -2402,8 +2412,18 @@ hash = "93cec5e6a0ac31b458194f02236ca1de942ca000ca25917e72929baaa207fe23"
 metafile = true
 
 [[files]]
+file = "mods/create-springs.pw.toml"
+hash = "bd720c27656a2508fff097cdb0e5c0c38c66de5c7a7902a2cc7df1103c96a2ea"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "bb53d53b0b6cd77fc6f665d0e6f1d00268e0efe5bd3a89fddd13101f4a448e3e"
 metafile = true
 
 [[files]]
@@ -2453,7 +2473,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "fb0e58c2888972855f26ba60aadd1a69bffaca14e86d61ac417261dbd08d197d"
+hash = "a4f35c84ec9feec9911672daeadcb81059c96131702216010b17d6408afa5da7"
 metafile = true
 
 [[files]]
@@ -2468,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "9de8687c9493b7809be2d236d4b2456b5866b1586aa98b729c8d0ef7d4c25117"
+hash = "c46f7c7498f8e72ce401403132486c28fff476d75bf5e8ccd4941c90674d8644"
 metafile = true
 
 [[files]]
@@ -2553,7 +2573,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "fa9aa329bdbefc9430cdc17bf44456c278eb3a3632956b472f71f97df6c2f9a4"
+hash = "5037c84534b4bcc29f60ffe2774efe3e1839ead641d2dfe20199162c2e6191db"
 metafile = true
 
 [[files]]
@@ -2838,7 +2858,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -3088,7 +3108,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
