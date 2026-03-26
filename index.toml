@@ -6250,6 +6250,11 @@ hash = "6a18fc2c584371e5f5fe6b621980e3ae4695bff2c5e90d7758c4acbf099743b0"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "ee9be142e662b94df90371f91ea684c7384fee45efce6e451c4e197a0adb384c"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "2dce962341375002f5937a871778cd0fc06d6bda41a3bdba8940a611b25dcd32"
 metafile = true
