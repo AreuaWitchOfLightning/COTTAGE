@@ -34,7 +34,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "57ea0b6d4b10152f1963e463433e041371a685e05b79007503aef2510bf9f0c9"
+hash = "65b6c460e378bb29e5ac3d0150659c97255098c2c4f53a05842bdf665d4beaf7"
 
 [[files]]
 file = "CHANGELOG.md"
@@ -2508,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
+hash = "047ffc1342604f1699f548401b392694c5f5aae2780326a75cf0303bd8f5dbdd"
 metafile = true
 
 [[files]]
@@ -2989,11 +2989,6 @@ metafile = true
 [[files]]
 file = "mods/sherdsapi.pw.toml"
 hash = "e8b27a9b9ee8a2eecbafddb34bf29b98f085b2613d9d6ebad465446d2ecc71a4"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
 metafile = true
 
 [[files]]
@@ -4998,27 +4993,27 @@ hash = "234346731fcbec8da61a5484def955bf14970998bd60d79f9ff93ee635ed5f16"
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
-hash = "d1eedbc027b542abaabb1323cb57c42c8f445121d6a9d619a4b0bb220164d3ac"
+hash = "65881b2d05f14a4eb2d34c62a736bd16086c22264ff7932047c5e0d603bd6e5a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-energistics.pw.toml"
-hash = "3628e68b00a1bcc7916cd421d19fc66c9906b4d6ef1ab3861d9c7f6ecdcf7752"
+hash = "90c7e41946de023293bf7d72f841686540c79e6754c409c07df923af710c3764"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
+hash = "5af5f0e483f294ad7db881e4a42fc27959929f748c6e8a4079dce047b7b08c8a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/exposure-create-compatibility.pw.toml"
-hash = "2a86f36458c3e75e19d04397044ac433cf7adf63c4ec00239c467d2279e8dcd2"
+hash = "f8b1857bb2898dfea8a618b1b86dc13d5eebe56b42a9db646a323e962ee06339"
 metafile = true
 
 [[files]]
 file = "resourcepacks/moromoros-create-style-pretty-pipes.pw.toml"
-hash = "c9194d4cf40c79a7d80e13cedcb61b82618dbccc926878ea709654a83af7a5d7"
+hash = "ef05b2c651ab0b7dacea94d056ae7ba314d4972cedc2caea13837987c5bcab17"
 metafile = true
 
 [[files]]
