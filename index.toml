@@ -2507,6 +2507,16 @@ hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "546a2e07dfe2ef19c83779b3a4123d49fa83d803a2873cb1d0d946bbb25b88ea"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "079dbc9be43f9fa6ab866f21532d441f05421752a5d1ed52d358f6858d6fc2c2"
+metafile = true
+
+[[files]]
 file = "mods/echo-chest.pw.toml"
 hash = "0652964aba1b72913e7f9565ebabe6d7d99bc49273d4ae15ab339aeb6cbe17ac"
 metafile = true
@@ -3067,6 +3077,11 @@ hash = "3f56e0bc00d85c95eac648e2b031871222d2c11089ab3a8ff990a86441e7239d"
 metafile = true
 
 [[files]]
+file = "mods/stackablepotions-forge.pw.toml"
+hash = "4e665f1f9fa7bb5f8d11d1e643cf486967ad6b1b850ac0bd9949e9cbd41641f1"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -3079,6 +3094,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "31883f2697767614c5b0671e9600c4e584c8e60be8062867667ddfc9d2624e23"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "86655ef6c7ac0a9ea2c653ff72cd66a3d609865117ba1238b8274066e7ac175b"
 metafile = true
 
 [[files]]
