@@ -80,6 +80,9 @@ defaultconfigs/ftbultimine/ftbultimine-*.snbt
 .idea/**/dictionaries
 .idea/**/shelf
 
+# Misc
+.probe
+**.zip
 # Linux
 *~
 .fuse_hidden*
