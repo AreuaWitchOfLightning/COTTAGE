@@ -2957,8 +2957,8 @@ hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
 metafile = true
 
 [[files]]
-file = "mods/probejs.pw.toml"
-hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
+file = "mods/probejs-legacy.pw.toml"
+hash = "02f6ed8824966638586c532910e2bdbf4aec0cd8c1108f0dbb02d6484d32017c"
 metafile = true
 
 [[files]]
