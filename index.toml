@@ -2712,6 +2712,11 @@ hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
 metafile = true
 
 [[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "ee39500811a5fc6ba10b4a8a55e9558eea6859a187d09c070f701042b6e4186e"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
@@ -2959,6 +2964,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
+file = "mods/realistic-horse-genetics.pw.toml"
+hash = "c56bcec3ee959718dc87225ddc946de960a7f0c04509fdf6e1c8490853b56b24"
 metafile = true
 
 [[files]]
