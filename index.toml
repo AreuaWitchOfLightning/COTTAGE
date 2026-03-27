@@ -34,7 +34,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "69ab279fe36f6523943130f9cb39df91f40dd8eb2ed56b1de3d4e37909aca35b"
+hash = "7e91dc0a508b7942432c308ab9ba6969338230401a440f2cdb8c9b7fd72eb65c"
 
 [[files]]
 file = "CHANGELOG.md"
@@ -2954,6 +2954,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
 metafile = true
 
 [[files]]
