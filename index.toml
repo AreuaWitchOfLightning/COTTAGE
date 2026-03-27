@@ -2542,6 +2542,11 @@ hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
 metafile = true
@@ -2779,11 +2784,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "11c474b1516d8f2c13fa6086d9cccb2306155ccb67dafe5bdc8e961a890362fc"
 metafile = true
 
 [[files]]
