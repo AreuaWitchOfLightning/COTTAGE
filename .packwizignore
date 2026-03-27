@@ -1,0 +1,10 @@
+.idea
+.github
+.gitattributes
+.gitignore
+CHANGELOG.md
+FAQ.md
+LICENSE.md
+README.md
+MOD_COMPAT.md
+tools
