@@ -2787,6 +2787,11 @@ hash = "11c474b1516d8f2c13fa6086d9cccb2306155ccb67dafe5bdc8e961a890362fc"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "41ccf0ad69630060d38686ff155c73446be62b2c77cf5c25707f880c9802c697"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
@@ -3054,6 +3059,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "5e8655b4de0773e4ec6fc151e91c5f79e455ce1e4cecf2c22fc4e3056b6f7c5c"
 metafile = true
 
 [[files]]
