@@ -1,0 +1,13 @@
+name = "Lexiconfig"
+filename = "lexiconfig-forge-1.4.18-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c10e44a30f9cf6c453a737657763fcdfd620ac2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6513950
+project-id = 1019452
