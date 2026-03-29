@@ -3075,6 +3075,11 @@ hash = "4e665f1f9fa7bb5f8d11d1e643cf486967ad6b1b850ac0bd9949e9cbd41641f1"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "d4c650c4cdf2589768c907bdb1883e74da65c6788423c197af41bcec175ec905"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
