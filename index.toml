@@ -961,6 +961,10 @@ file = "defaultconfigs/thermal-server.toml"
 hash = "b02b2b7de53f9392a14474da4d40b6756324a87b979dd5f0f824f21afb1eb495"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
 file = "kubejs/assets/ae2/ae2guide/getting-started.md"
 hash = "ae7d55b088125e6ba7bff97246798f67ed030b9f71d7d7de2beba73a8729f3be"
 
@@ -1138,7 +1142,7 @@ hash = "14b383e523cd613a9b59e186c00304de3932a024775e6df575e44c480bb53a53"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
-hash = "7d5b020a33e904a5bc99ed73e3227d9c1aa3e4303d96a988708dcb39c9ce05f8"
+hash = "713a35c3108fc8bd3c4d3ffea6bad273679639f20b3e8bd36b394360e5a6c66c"
 
 [[files]]
 file = "kubejs/client_scripts/lang.js"
@@ -1786,7 +1790,7 @@ hash = "7610137b9b6bfd8ee6b4d422ebbb9c1929dfb3a0cb406588ba7fe8292f87f255"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "878ea7a55ee19d195b0fc6ceff26d8b5cf1e3a96b8aca2e14167233d7f7a1369"
+hash = "cebfa4bb8dd4e4512bd58c0b6e945266c75622c889dcbe889cc0104640310328"
 
 [[files]]
 file = "kubejs/server_scripts/key_mods/_key_mods_readme.md"
@@ -2046,7 +2050,7 @@ hash = "58024bb4a16a51df00f86e20aea8fba2582ea7cbd667c536751de53450c352e8"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
-hash = "92f85b0b1c8378c39f3407ac6d9f4fc235586fd0d628c286881b12874d627dea"
+hash = "ef100c7353c9043629cd908b6bb703a3a89f7513bc06e9677b8c8abf4386a3d9"
 
 [[files]]
 file = "kubejs/startup_scripts/mods/moreminecarts.js"
@@ -2696,6 +2700,11 @@ hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "07fc40541ee106402ce9eb26888d7d078e5fd28cd01a00cbc04dd57839c6aeeb"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
 metafile = true
@@ -2823,6 +2832,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
 
 [[files]]
