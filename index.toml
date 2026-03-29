@@ -2201,6 +2201,11 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+metafile = true
+
+[[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "2113d7b7832ae7bb08781cccec670a81fd6d7a5c2e6758ef73f58b7f423218b2"
 metafile = true
@@ -2670,6 +2675,11 @@ hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
+metafile = true
+
+[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "ee39500811a5fc6ba10b4a8a55e9558eea6859a187d09c070f701042b6e4186e"
 metafile = true
@@ -2682,6 +2692,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "eb089373d47632a85bb7596b1143b719d7675f5e2782586aa0c340069d699700"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
 
 [[files]]
@@ -2872,6 +2887,16 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
 
 [[files]]
