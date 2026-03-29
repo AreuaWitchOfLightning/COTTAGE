@@ -2235,6 +2235,11 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
+file = "mods/clutter-no-more.pw.toml"
+hash = "73291315f6701ae3761a3b766a6268cda2eae9ecb0810316ccec8780124cf455"
+metafile = true
+
+[[files]]
 file = "mods/cobblegenrandomizer.pw.toml"
 hash = "b6c98086f9fa71d9fe4d702294ed527b53f7096e361cbbd71016cf859e164572"
 metafile = true
