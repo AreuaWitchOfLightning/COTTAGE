@@ -3110,6 +3110,11 @@ hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
 metafile = true
 
 [[files]]
+file = "mods/traveler-tool-belt.pw.toml"
+hash = "1248583acaa365b4130fcb277fdcb83e9d00fb54b25aaaa9771590e08dc1f237"
+metafile = true
+
+[[files]]
 file = "mods/trials-chambers-reuploaded.pw.toml"
 hash = "60dcc12f1431441ab11d1c431b69e73cc2332fd64fd28a914dc88d0ef81c86b6"
 metafile = true
