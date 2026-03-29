@@ -1,12 +1,12 @@
 name = "COTTAGE"
 author = "dummies"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8527bea74fdae65e10e6ccdd4a49d4f56ab3caacc681836d49d1d90ab7e78f5"
+hash = "478278fe1d944c98464899b4fc30080a0f79e926a77a6cdf3a82851c81a43938"
 
 [versions]
 forge = "47.4.10"
