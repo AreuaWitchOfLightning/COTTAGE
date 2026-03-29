@@ -1778,7 +1778,7 @@ hash = "9ee80f1ee56c2a386d2608442b84b2f3b461565bac22df3871d4c8b60f1e90d8"
 
 [[files]]
 file = "kubejs/server_scripts/cottage_recipes/estrogen.js"
-hash = "186298048a5f6e9acd6a72740bdc78a8991d25c4c1cf121e7895c22fd6c5c104"
+hash = "13bdfe2a48e1484910e4c12a86789215128b3e4f000cf4dc51eb32b050290a2c"
 
 [[files]]
 file = "kubejs/server_scripts/effectivetools.js"
@@ -2348,11 +2348,6 @@ metafile = true
 [[files]]
 file = "mods/create-security-program.pw.toml"
 hash = "93cec5e6a0ac31b458194f02236ca1de942ca000ca25917e72929baaa207fe23"
-metafile = true
-
-[[files]]
-file = "mods/create-springs.pw.toml"
-hash = "bd720c27656a2508fff097cdb0e5c0c38c66de5c7a7902a2cc7df1103c96a2ea"
 metafile = true
 
 [[files]]
