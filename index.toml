@@ -2980,11 +2980,6 @@ hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
-metafile = true
-
-[[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
 hash = "47488a6562c760f1964eabb1a3ad962592c29ef2e193f1557c0eded583790e72"
 metafile = true
