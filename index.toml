@@ -2830,6 +2830,11 @@ hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
 metafile = true
 
 [[files]]
+file = "mods/mavm.pw.toml"
+hash = "c5c23cd1b5ebe15dc83ead959df0873e8b87f57f6af95fd515adb267c3781116"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
