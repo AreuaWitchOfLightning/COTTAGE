@@ -2470,6 +2470,11 @@ hash = "0652964aba1b72913e7f9565ebabe6d7d99bc49273d4ae15ab339aeb6cbe17ac"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "ec80781652fbaf7d459c4cea0182ff084141205438a16e3e0cd1b677b62639bf"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
@@ -2760,6 +2765,11 @@ hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "c80dee21b2694edd7e6b420cfe04168879000ec8d7d89842a9382b895215f2b3"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "41ccf0ad69630060d38686ff155c73446be62b2c77cf5c25707f880c9802c697"
 metafile = true
@@ -2877,6 +2887,11 @@ metafile = true
 [[files]]
 file = "mods/multiblocked2.pw.toml"
 hash = "6928b1c2aa2aa9b84b639fb07f6a2e7d197ff9e39002e25d269b85baff22f772"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "d045d2be77b9886a1c4643f02281a31d573330143126ac79ba07d6d9891b724d"
 metafile = true
 
 [[files]]
