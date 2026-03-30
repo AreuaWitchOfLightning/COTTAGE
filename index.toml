@@ -3097,6 +3097,11 @@ hash = "70acbe76903121faa88da57c77a8a1eada9c0e4b58143abb8ccd57b766b14148"
 metafile = true
 
 [[files]]
+file = "mods/rpg-better-elderguardian.pw.toml"
+hash = "238ec2471aaf3dde9d48a55ae627bdc1da76a26ac14052742d648efcc4407266"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
