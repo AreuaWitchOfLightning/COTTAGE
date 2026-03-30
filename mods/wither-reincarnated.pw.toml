@@ -1,0 +1,13 @@
+name = "Wither: Reincarnated"
+filename = "witherreincarnated-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a03dac62ffce65e49b0fa7f6c6d5b33a82ea1dd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6835382
+project-id = 1309246
