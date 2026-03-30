@@ -2191,6 +2191,11 @@ hash = "f6430b103501f2ca9b81b4fe85565bfae1eb4529dd14ce2aacc1e315981c76cf"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "2adb8c4c9a368dac1980d99180bec4ff1ec51d8c01d73093bcc2610e95803cd9"
+metafile = true
+
+[[files]]
 file = "mods/better-flight-forge.pw.toml"
 hash = "aa534461709ccc404cf402782ece4c7b6474a6c012bda046e1e351b1413d99c5"
 metafile = true
