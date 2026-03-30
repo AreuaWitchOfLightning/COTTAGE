@@ -2101,6 +2101,11 @@ file = "ldlib/assets/mbd2/recipe_type/strainer.rt"
 hash = "4ddb4fa791d6ec68c8a2f122add44973975d2256cc03771e258537d5af517d34"
 
 [[files]]
+file = "mods/ad-astra-more-structures.pw.toml"
+hash = "88e57e5509a97a4917061cf64fe838511982b8a57c3bdd729ca7b23245830c0e"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "da42d2a6e6e3f7bd10df625ab23d6ba8a50ecb3545c1c3c6bda4f826caa5d51b"
 metafile = true
@@ -2690,6 +2695,11 @@ hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "56e2d042f5d49a155e38b8d6a29cc621044c50fa82a4bd322396272c0deac223"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "eb089373d47632a85bb7596b1143b719d7675f5e2782586aa0c340069d699700"
 metafile = true
@@ -2707,6 +2717,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "1755530acc84b0e9152cbf68da07fc239b78ac5357e552d1fbb99483bcb6c24e"
+metafile = true
+
+[[files]]
+file = "mods/integrated-villages.pw.toml"
+hash = "e0a3b7580b34a1788d5b7b9350862f89ab35c833b689579173b821e57bea4b60"
 metafile = true
 
 [[files]]
