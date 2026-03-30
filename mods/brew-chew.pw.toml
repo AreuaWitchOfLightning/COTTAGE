@@ -1,0 +1,13 @@
+name = "Brew'n Chew"
+filename = "brewchew-1.20.1-5.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c50716e72b0de33a7b07caf8bf7642d32f9ab682"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6724214
+project-id = 982363

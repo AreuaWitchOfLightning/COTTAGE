@@ -2186,6 +2186,11 @@ hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
 
 [[files]]
+file = "mods/beautiful-potions.pw.toml"
+hash = "d3f647e1c3448d25df6701e77bba7bb79a4b27b064afa8c6ff6a41e7baaba0ad"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f6430b103501f2ca9b81b4fe85565bfae1eb4529dd14ce2aacc1e315981c76cf"
 metafile = true
@@ -2206,8 +2211,18 @@ hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
 
 [[files]]
+file = "mods/bookling-gear.pw.toml"
+hash = "3b23a39327050a59bc41f70f6b053b1bdaf404881b5b8ee023cb14ecbbf7beb9"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
+
+[[files]]
+file = "mods/brew-chew.pw.toml"
+hash = "d8f26b66c94d4a6e1efe5c583e21fe4837356f63a6ca49cc09271d652fdef4b9"
 metafile = true
 
 [[files]]
@@ -2442,6 +2457,11 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "a4f35c84ec9feec9911672daeadcb81059c96131702216010b17d6408afa5da7"
+metafile = true
+
+[[files]]
+file = "mods/daves-potioneering.pw.toml"
+hash = "d36550e6e3d122f6a945525d7fe959a173e83efd30c8f69639fd74a5631069ad"
 metafile = true
 
 [[files]]
@@ -3117,11 +3137,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "3f56e0bc00d85c95eac648e2b031871222d2c11089ab3a8ff990a86441e7239d"
-metafile = true
-
-[[files]]
-file = "mods/stackablepotions-forge.pw.toml"
-hash = "4e665f1f9fa7bb5f8d11d1e643cf486967ad6b1b850ac0bd9949e9cbd41641f1"
 metafile = true
 
 [[files]]
