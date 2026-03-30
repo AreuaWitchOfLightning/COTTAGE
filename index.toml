@@ -657,6 +657,10 @@ file = "config/guideme.toml"
 hash = "82bcfdf8624ec94cf4cfe30b1def3a0f3d562561b31a0ccef7468657f48e0987"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "0e569f6672c5afa8efd3193a69f4a8b35bb5251c266b69f7c3b33f0c6d77fbd3"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
 
@@ -1142,7 +1146,7 @@ hash = "14b383e523cd613a9b59e186c00304de3932a024775e6df575e44c480bb53a53"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
-hash = "713a35c3108fc8bd3c4d3ffea6bad273679639f20b3e8bd36b394360e5a6c66c"
+hash = "7d5b020a33e904a5bc99ed73e3227d9c1aa3e4303d96a988708dcb39c9ce05f8"
 
 [[files]]
 file = "kubejs/client_scripts/lang.js"
@@ -1781,8 +1785,16 @@ file = "kubejs/server_scripts/bonkers_chemistry.js"
 hash = "9ee80f1ee56c2a386d2608442b84b2f3b461565bac22df3871d4c8b60f1e90d8"
 
 [[files]]
+file = "kubejs/server_scripts/cottage_recipes/echochest.js"
+hash = "f7e83ca61093bc96259c04ef3dadb31c92dcc57302bdabd272fb3dc610af77b9"
+
+[[files]]
 file = "kubejs/server_scripts/cottage_recipes/estrogen.js"
 hash = "13bdfe2a48e1484910e4c12a86789215128b3e4f000cf4dc51eb32b050290a2c"
+
+[[files]]
+file = "kubejs/server_scripts/cottage_recipes/gadgets.js"
+hash = "3e1c19fe81291424442076cbe37f96fce899c5809ef3701617f8cc90de924903"
 
 [[files]]
 file = "kubejs/server_scripts/effectivetools.js"
@@ -1790,7 +1802,7 @@ hash = "7610137b9b6bfd8ee6b4d422ebbb9c1929dfb3a0cb406588ba7fe8292f87f255"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "cebfa4bb8dd4e4512bd58c0b6e945266c75622c889dcbe889cc0104640310328"
+hash = "878ea7a55ee19d195b0fc6ceff26d8b5cf1e3a96b8aca2e14167233d7f7a1369"
 
 [[files]]
 file = "kubejs/server_scripts/key_mods/_key_mods_readme.md"
@@ -2050,7 +2062,7 @@ hash = "58024bb4a16a51df00f86e20aea8fba2582ea7cbd667c536751de53450c352e8"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
-hash = "ef100c7353c9043629cd908b6bb703a3a89f7513bc06e9677b8c8abf4386a3d9"
+hash = "92f85b0b1c8378c39f3407ac6d9f4fc235586fd0d628c286881b12874d627dea"
 
 [[files]]
 file = "kubejs/startup_scripts/mods/moreminecarts.js"
@@ -2751,7 +2763,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "73f0fb77d1827b8571a4a17f39920b813c356fe2c8647ae1195de50792e5bc7c"
+hash = "f9512564b0e251e4f9b7a0fef004a26c05c9272cbe5ce272730eba63179c00eb"
 metafile = true
 
 [[files]]
@@ -2872,6 +2884,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "a9a105475f0c90f42e36a5faa0c4fc3ba34691f3b688abc523d195d69fc7498d"
 metafile = true
 
 [[files]]
