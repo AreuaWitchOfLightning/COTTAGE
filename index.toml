@@ -3257,6 +3257,11 @@ hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
 metafile = true
 
 [[files]]
+file = "mods/true-herobrine.pw.toml"
+hash = "99076221dbe0fab1166269e88b120602103f9c68d6eb7bd08e1f8acf504148b5"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
