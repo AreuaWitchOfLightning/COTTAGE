@@ -1,0 +1,13 @@
+name = "Cursery[Forge/Fabric]"
+filename = "cursery-1.20.1-4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6649ae844c2fcd2fb848e8b419e9dfb33220661a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4767585
+project-id = 476545

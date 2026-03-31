@@ -2472,6 +2472,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/cursery.pw.toml"
+hash = "2994e9f5cb4f258694f4704ef96eb1ebcf2b1799cd8d9361341c359660cb6744"
+metafile = true
+
+[[files]]
 file = "mods/cynosure.pw.toml"
 hash = "fcbe3c60d416694da7ecc84daa65cb896282cb5a45447c5c028b6c93534b6a48"
 metafile = true
@@ -3154,6 +3159,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
+metafile = true
+
+[[files]]
+file = "mods/sneaky-curses.pw.toml"
+hash = "164df08c0798265ec13a11580497fd07f20f9e0786d9681a71e966fbe1d679c7"
 metafile = true
 
 [[files]]
