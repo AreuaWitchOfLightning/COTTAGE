@@ -2257,6 +2257,16 @@ file = "mods/cc-tweaked-1.20.1-forge-1.117.0.jar"
 hash = "b6eceea92d5d0e245867499a5132022de469d45010184c05c937a2dcf9f0291d"
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-better-beacons.pw.toml"
+hash = "3b0f38cd85991817f80d12ee7c2f620865f4f647911b847f96866d72d5dfbf3f"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "c3af28b2f1c49476b026443f36bcbde377443381af551b31a0bf65097795bacd"
 metafile = true
@@ -2809,6 +2819,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "c80dee21b2694edd7e6b420cfe04168879000ec8d7d89842a9382b895215f2b3"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-beacons-reforged.pw.toml"
+hash = "c9b08c2c9a61556b04979a930a0c95a1cc5fa45bed7c7663aed5145c242c86de"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Just Enough Beacons Reforged [Forge | Fabric | NeoForge]"
+filename = "JustEnoughBeacons-Forge-1.20.4-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "788905082ee9c1d155b351f62dd293a238b0b027"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5065775
+project-id = 912266
