@@ -1,0 +1,13 @@
+name = "Mischief Illagers"
+filename = "mischief_illagers-1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80ffbacb343161273e7021180e490ae557fa9930"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6508234
+project-id = 1242852

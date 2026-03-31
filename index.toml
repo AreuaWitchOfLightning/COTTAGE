@@ -2922,6 +2922,11 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
+file = "mods/mischief-illagers.pw.toml"
+hash = "f1a9532ab7e2005cac0fae1321e3c3c3f1da1cfed6d3953af357e1170005e173"
+metafile = true
+
+[[files]]
 file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
 hash = "c65657309edfc7b876a46253221abaa77ef76396f374c75620f4a973aeabbb2e"
 metafile = true
