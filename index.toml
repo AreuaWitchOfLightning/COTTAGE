@@ -2725,6 +2725,11 @@ hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
 metafile = true
