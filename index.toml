@@ -677,10 +677,6 @@ file = "config/jade/plugins.json"
 hash = "5ba70e267d674c225645ee1d9cf722387151d6a4b34d07b46e5bdca8101c50e0"
 
 [[files]]
-file = "config/jeed-client.toml"
-hash = "c5e02e3a502cc675904916226a545356570f51e871340eb634e2047bb2d013e9"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
 
@@ -1145,10 +1141,6 @@ file = "kubejs/client_scripts/jei_categories/straining/straining_kubejs_events.j
 hash = "14b383e523cd613a9b59e186c00304de3932a024775e6df575e44c480bb53a53"
 
 [[files]]
-file = "kubejs/client_scripts/jsconfig.json"
-hash = "7d5b020a33e904a5bc99ed73e3227d9c1aa3e4303d96a988708dcb39c9ce05f8"
-
-[[files]]
 file = "kubejs/client_scripts/lang.js"
 hash = "4b4aa30c06479a41ac3319d384a36df0c6c60cd58f0b49ea6e39b708d3287d98"
 
@@ -1203,10 +1195,6 @@ hash = "d1d5b6a20a2c79448b4f01e845b867bf7c99e62b12c4306f34bd091f50f683be"
 [[files]]
 file = "kubejs/config/packicon.png"
 hash = "453c23fc458250cc7d858a67a9a1087e42a32e5f7578a25d728f441cef6f9632"
-
-[[files]]
-file = "kubejs/config/probejs.json"
-hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
 
 [[files]]
 file = "kubejs/data/architects_palette/loot_modifiers/wither_skeleton_bones.json"
@@ -1801,10 +1789,6 @@ file = "kubejs/server_scripts/effectivetools.js"
 hash = "7610137b9b6bfd8ee6b4d422ebbb9c1929dfb3a0cb406588ba7fe8292f87f255"
 
 [[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "878ea7a55ee19d195b0fc6ceff26d8b5cf1e3a96b8aca2e14167233d7f7a1369"
-
-[[files]]
 file = "kubejs/server_scripts/key_mods/_key_mods_readme.md"
 hash = "cd0b439c62cd5fa76d4142e99748590ffdfae6da5f46c26a12ed02e573fa0c84"
 
@@ -2061,10 +2045,6 @@ file = "kubejs/startup_scripts/generate.js"
 hash = "58024bb4a16a51df00f86e20aea8fba2582ea7cbd667c536751de53450c352e8"
 
 [[files]]
-file = "kubejs/startup_scripts/jsconfig.json"
-hash = "92f85b0b1c8378c39f3407ac6d9f4fc235586fd0d628c286881b12874d627dea"
-
-[[files]]
 file = "kubejs/startup_scripts/mods/moreminecarts.js"
 hash = "ad684f2d3f0a71d801a5881a2dc67b6e0775919f8ef9768493a55795ea8a5b0a"
 
@@ -2185,6 +2165,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/backpacked-world-of-color.pw.toml"
+hash = "7de721b7415be308858bf989047794152d37ba2a3f63d83e5445d81f93486d26"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "0f53b68912df649f51684bf9ee43657354a1b1a6052986f3690af5d666395158"
 metafile = true
 
 [[files]]
@@ -2552,11 +2542,6 @@ hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "047ffc1342604f1699f548401b392694c5f5aae2780326a75cf0303bd8f5dbdd"
 metafile = true
@@ -2657,11 +2642,6 @@ hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "0e753f0aea9277eba730d4a55929f244f9d7c9d15cc5e9bd96b4669e531f6de2"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
 metafile = true
@@ -2669,21 +2649,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "66206b66ab8d3a44fc67d44640398466630e18d02d3efdeb46f3134022284eb6"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
-metafile = true
-
-[[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
 metafile = true
 
 [[files]]
