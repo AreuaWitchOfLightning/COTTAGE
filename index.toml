@@ -2093,11 +2093,6 @@ file = "ldlib/assets/mbd2/recipe_type/strainer.rt"
 hash = "4ddb4fa791d6ec68c8a2f122add44973975d2256cc03771e258537d5af517d34"
 
 [[files]]
-file = "mods/access-denied.pw.toml"
-hash = "951c397d6cd6cce49e6513d96548d8dba5a6b6786c4b7150cb934fc8e2bf9b8f"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra-more-structures.pw.toml"
 hash = "88e57e5509a97a4917061cf64fe838511982b8a57c3bdd729ca7b23245830c0e"
 metafile = true
