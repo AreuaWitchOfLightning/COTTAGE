@@ -1,0 +1,13 @@
+name = "Backpacked: World of Color"
+filename = "backpacked-world-of-color-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4706985dde2dffdf3a081c632165c4bff7c60814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7764090
+project-id = 1027390
