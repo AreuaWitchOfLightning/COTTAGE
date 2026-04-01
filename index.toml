@@ -2852,11 +2852,6 @@ hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-gui.pw.toml"
-hash = "48c154948bcc55a5168a3af1a702815ff943be6f6068a834976b44564f77c241"
-metafile = true
-
-[[files]]
 file = "mods/kubejs-thermal.pw.toml"
 hash = "be2fd618cc61b8eee5ab16c03b4780809da0f3de76bf5224a463cfffeebd6385"
 metafile = true
@@ -3039,11 +3034,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
-metafile = true
-
-[[files]]
-file = "mods/probejs-legacy.pw.toml"
-hash = "02f6ed8824966638586c532910e2bdbf4aec0cd8c1108f0dbb02d6484d32017c"
 metafile = true
 
 [[files]]
