@@ -9,10 +9,6 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/ProjectRed.cfg"
-hash = "5a6b02856dd2c33abe1530ca1c751cb22391b7b91a3d17eccfbe4cd4eda6cba4"
-
-[[files]]
 file = "config/YungsBridges-forge-1_18.toml"
 hash = "e007d295509866fd8ecaf48bb7f70d86523352d1033b6ec1335e3203c9591687"
 
@@ -805,10 +801,6 @@ file = "config/smoothchunk.json"
 hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
 
 [[files]]
-file = "config/sophisticatedbackpacks-common.toml"
-hash = "b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7"
-
-[[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "6078e290594535b991bbfe1497f9acde5f639d8ade2b203216cb3dd4e430f6a9"
 
@@ -947,10 +939,6 @@ hash = "85cecae7daccfa6d2286f81ec9a6604a7b6259929a141fd6a80b133fb6391d5e"
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
 hash = "2a444530eeaeaf06f708f4d4e72061ad2af4d35c8cf418ad813cbc07205218ad"
-
-[[files]]
-file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "a24b0030bc3e7188a01827b3012a053a7f97e989311a3d78d08bae5b85644d1e"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
@@ -2272,6 +2260,11 @@ hash = "a974b0d52ac0ee3a33219665b0a01a73b6613869b4129d3a6e6ee34da06e753b"
 metafile = true
 
 [[files]]
+file = "mods/clockwork.pw.toml"
+hash = "96f8890a104dd058730d5178d3e10411d6502fe56fc691e0d160676fdbebc014"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -2814,6 +2807,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "41ccf0ad69630060d38686ff155c73446be62b2c77cf5c25707f880c9802c697"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "4966571305d5b3636adaabdae0ca934d287822b99f9bb056e1dda55e41db6b81"
 metafile = true
 
 [[files]]

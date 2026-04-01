@@ -1,0 +1,13 @@
+name = "Clockwork"
+filename = "clockwork-forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66b28106ce297c6d8882555853668a2b6482fa42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7142734
+project-id = 596411
