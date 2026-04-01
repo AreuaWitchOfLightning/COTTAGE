@@ -2905,6 +2905,11 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
+file = "mods/meowmere.pw.toml"
+hash = "2b752eb635805379f5d3d76670200a4e5743af5628eef89a7539317151416d70"
+metafile = true
+
+[[files]]
 file = "mods/mischief-illagers.pw.toml"
 hash = "f1a9532ab7e2005cac0fae1321e3c3c3f1da1cfed6d3953af357e1170005e173"
 metafile = true

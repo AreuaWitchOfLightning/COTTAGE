@@ -1,0 +1,13 @@
+name = "Meowmere"
+filename = "meowmere-0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b349720ff901b55c8bd7515890de5fa4063533d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7583383
+project-id = 1304066
