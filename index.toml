@@ -2312,11 +2312,6 @@ hash = "f869b751559c243a2ca62968e9af8a2e3b5cc51b94835fbb8c7f2df95aaba3a9"
 metafile = true
 
 [[files]]
-file = "mods/complicated-bees.pw.toml"
-hash = "d5b78c08b1c7623b6929de52da8cfee08cb6e3755d13a2404ba90f0fe6147792"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -3174,11 +3169,6 @@ metafile = true
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "5e8655b4de0773e4ec6fc151e91c5f79e455ce1e4cecf2c22fc4e3056b6f7c5c"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f4481788b54b8cc3b31e5f5a726168bb9e1692dd09b5ab6edc4f6bd161f2d092"
 metafile = true
 
 [[files]]
