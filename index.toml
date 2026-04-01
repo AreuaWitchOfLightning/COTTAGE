@@ -3235,6 +3235,11 @@ hash = "1248583acaa365b4130fcb277fdcb83e9d00fb54b25aaaa9771590e08dc1f237"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
+
+[[files]]
 file = "mods/trials-chambers-reuploaded.pw.toml"
 hash = "60dcc12f1431441ab11d1c431b69e73cc2332fd64fd28a914dc88d0ef81c86b6"
 metafile = true
