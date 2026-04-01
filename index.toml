@@ -2942,11 +2942,6 @@ hash = "80124bd3e7bc9917e41ee22534baddfd0578f1cad90906e4c5f0c8966ce1367a"
 metafile = true
 
 [[files]]
-file = "mods/more-minecarts.pw.toml"
-hash = "6f8dbef0437c81d94f883fc1077d07c6c6784710ec693daec98202788f4e3098"
-metafile = true
-
-[[files]]
 file = "mods/morejs.pw.toml"
 hash = "df7a58af5cb547cb765642ee4ed563fa15c59d9e6f44d99229541d4d1d32c84b"
 metafile = true
