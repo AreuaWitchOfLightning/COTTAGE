@@ -2093,6 +2093,11 @@ file = "ldlib/assets/mbd2/recipe_type/strainer.rt"
 hash = "4ddb4fa791d6ec68c8a2f122add44973975d2256cc03771e258537d5af517d34"
 
 [[files]]
+file = "mods/access-denied.pw.toml"
+hash = "951c397d6cd6cce49e6513d96548d8dba5a6b6786c4b7150cb934fc8e2bf9b8f"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-more-structures.pw.toml"
 hash = "88e57e5509a97a4917061cf64fe838511982b8a57c3bdd729ca7b23245830c0e"
 metafile = true
@@ -2185,6 +2190,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
+metafile = true
+
+[[files]]
+file = "mods/beautified-chat-server.pw.toml"
+hash = "606295506a75ea00aaba468b806f5c8f583c9c5f68401b8e8647c61d771c9647"
 metafile = true
 
 [[files]]
@@ -2294,6 +2304,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
 metafile = true
 
 [[files]]
@@ -2889,6 +2904,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
+metafile = true
+
+[[files]]
+file = "mods/modlist-snooper.pw.toml"
+hash = "ccad1800b1681dce567d74d53c53efcb8a4787c247f294e010416364a6a2e8a1"
 metafile = true
 
 [[files]]

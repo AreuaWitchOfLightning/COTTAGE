@@ -1,0 +1,13 @@
+name = "Access Denied"
+filename = "access_denied-6.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "360a8db3442149929dcef5c0dd57613466515a28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7193940
+project-id = 917449
