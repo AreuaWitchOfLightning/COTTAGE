@@ -2997,26 +2997,6 @@ hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
 metafile = true
 
 [[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "11235263add95d02a50cef25f363a02aa1cf90e43773c1c4889a71a67192cdb4"
-metafile = true
-
-[[files]]
-file = "mods/project-red-illumination.pw.toml"
-hash = "46547b3f613fea02d078fbb86cae07aa3abdbe5197ae61b617c169069bcd940e"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "3655f9bbd83aaa65be40e40a9961da4c97dee82622a44a30b7e0cded4eb1a88b"
-metafile = true
-
-[[files]]
-file = "mods/project-red-transmission.pw.toml"
-hash = "3374b17465daf9ca3eb5c069d1ee6043ba8b3a0dbe3a219212d24d3894ab4764"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
