@@ -2652,6 +2652,11 @@ hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "0e753f0aea9277eba730d4a55929f244f9d7c9d15cc5e9bd96b4669e531f6de2"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
 metafile = true
@@ -2659,6 +2664,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
 metafile = true
 
 [[files]]
@@ -3234,6 +3244,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
 metafile = true
 
 [[files]]
