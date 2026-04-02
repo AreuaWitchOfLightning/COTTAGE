@@ -2176,11 +2176,6 @@ hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
 
 [[files]]
-file = "mods/beautified-chat-server.pw.toml"
-hash = "606295506a75ea00aaba468b806f5c8f583c9c5f68401b8e8647c61d771c9647"
-metafile = true
-
-[[files]]
 file = "mods/beautiful-potions.pw.toml"
 hash = "d3f647e1c3448d25df6701e77bba7bb79a4b27b064afa8c6ff6a41e7baaba0ad"
 metafile = true
@@ -2193,11 +2188,6 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "2adb8c4c9a368dac1980d99180bec4ff1ec51d8c01d73093bcc2610e95803cd9"
-metafile = true
-
-[[files]]
-file = "mods/better-flight-forge.pw.toml"
-hash = "aa534461709ccc404cf402782ece4c7b6474a6c012bda046e1e351b1413d99c5"
 metafile = true
 
 [[files]]
@@ -2370,11 +2360,6 @@ hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantable-machinery.pw.toml"
-hash = "02878ef32a25b266ef205d7598d4bf472226a00266f6b816b3f83fcb2d954769"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
@@ -2405,11 +2390,6 @@ hash = "dbb3fbaf666652bfe0b0e6ada3e69f5af4b976c803d73312acf19e1c95c04de7"
 metafile = true
 
 [[files]]
-file = "mods/create-security-program.pw.toml"
-hash = "93cec5e6a0ac31b458194f02236ca1de942ca000ca25917e72929baaa207fe23"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
 metafile = true
@@ -2437,11 +2417,6 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "ff55f6dd98968c446e32885ec0eae66ee882071f8a4efbf1486e57590778b2eb"
-metafile = true
-
-[[files]]
-file = "mods/culinary-construct.pw.toml"
-hash = "504d76e6cbd4a31c04297fc1b02a3c0857b5f7346120cdeff79746911fadc10a"
 metafile = true
 
 [[files]]
@@ -2495,11 +2470,6 @@ hash = "c46f7c7498f8e72ce401403132486c28fff476d75bf5e8ccd4941c90674d8644"
 metafile = true
 
 [[files]]
-file = "mods/dungeon-crawl.pw.toml"
-hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "546a2e07dfe2ef19c83779b3a4123d49fa83d803a2873cb1d0d946bbb25b88ea"
 metafile = true
@@ -2512,11 +2482,6 @@ metafile = true
 [[files]]
 file = "mods/echo-chest.pw.toml"
 hash = "0652964aba1b72913e7f9565ebabe6d7d99bc49273d4ae15ab339aeb6cbe17ac"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "ec80781652fbaf7d459c4cea0182ff084141205438a16e3e0cd1b677b62639bf"
 metafile = true
 
 [[files]]
@@ -2572,11 +2537,6 @@ metafile = true
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "6b1bf52ca9ee2a4de79a4e9ed3e85c3ef62566c92047f06fe8c68b661dadcff6"
-metafile = true
-
-[[files]]
-file = "mods/exposure-village-chest-addon.pw.toml"
-hash = "6311f09fcc3ade9a35adb856b765c00aaf5a4609d7ef11281fac9d7f0aeded16"
 metafile = true
 
 [[files]]
@@ -2665,11 +2625,6 @@ hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
 metafile = true
 
 [[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "ea05f8426dda347174d1690299c4517a489c6c17370a98fd812e9d06ce1dbcfd"
 metafile = true
@@ -2732,11 +2687,6 @@ metafile = true
 [[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
-metafile = true
-
-[[files]]
-file = "mods/horse-expert.pw.toml"
-hash = "ee39500811a5fc6ba10b4a8a55e9558eea6859a187d09c070f701042b6e4186e"
 metafile = true
 
 [[files]]
@@ -2925,11 +2875,6 @@ hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
 metafile = true
 
 [[files]]
-file = "mods/modlist-snooper.pw.toml"
-hash = "ccad1800b1681dce567d74d53c53efcb8a4787c247f294e010416364a6a2e8a1"
-metafile = true
-
-[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "80124bd3e7bc9917e41ee22534baddfd0578f1cad90906e4c5f0c8966ce1367a"
 metafile = true
@@ -2955,11 +2900,6 @@ hash = "d045d2be77b9886a1c4643f02281a31d573330143126ac79ba07d6d9891b724d"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
-metafile = true
-
-[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
@@ -2972,11 +2912,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "215cb5123319ccd019db178b94ab2ab70db66a11c1b0ae722afefea885396e7a"
 metafile = true
 
 [[files]]
@@ -3050,11 +2985,6 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
-file = "mods/realistic-horse-genetics.pw.toml"
-hash = "c56bcec3ee959718dc87225ddc946de960a7f0c04509fdf6e1c8490853b56b24"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
@@ -3107,16 +3037,6 @@ metafile = true
 [[files]]
 file = "mods/sherdsapi.pw.toml"
 hash = "e8b27a9b9ee8a2eecbafddb34bf29b98f085b2613d9d6ebad465446d2ecc71a4"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-radio.pw.toml"
-hash = "7bb9b367774fd68ce3e0c600f41f5c882b2232a203d3132b7224229ae73f9534"
 metafile = true
 
 [[files]]
@@ -3247,11 +3167,6 @@ metafile = true
 [[files]]
 file = "mods/trials-chambers-reuploaded.pw.toml"
 hash = "60dcc12f1431441ab11d1c431b69e73cc2332fd64fd28a914dc88d0ef81c86b6"
-metafile = true
-
-[[files]]
-file = "mods/true-ending.pw.toml"
-hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
 metafile = true
 
 [[files]]
