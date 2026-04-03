@@ -1,0 +1,13 @@
+name = "Blahaj Restitched"
+filename = "blahaj-forge-1.20.1-0.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c863b00ccbf5ef93e7a1ae7cc5c6546970707a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5330281
+project-id = 963489

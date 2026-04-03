@@ -2196,6 +2196,11 @@ hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-restitched.pw.toml"
+hash = "6ce2aba9986affc30bce88aba3e9a7184eb38c8372a52c884fa6ee7f64f19d5c"
+metafile = true
+
+[[files]]
 file = "mods/bookling-gear.pw.toml"
 hash = "3b23a39327050a59bc41f70f6b053b1bdaf404881b5b8ee023cb14ecbbf7beb9"
 metafile = true
@@ -2237,11 +2242,6 @@ metafile = true
 [[files]]
 file = "mods/cerbons-better-beacons.pw.toml"
 hash = "3b0f38cd85991817f80d12ee7c2f620865f4f647911b847f96866d72d5dfbf3f"
-metafile = true
-
-[[files]]
-file = "mods/chimes.pw.toml"
-hash = "c3af28b2f1c49476b026443f36bcbde377443381af551b31a0bf65097795bacd"
 metafile = true
 
 [[files]]
@@ -2610,11 +2610,6 @@ hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "0e753f0aea9277eba730d4a55929f244f9d7c9d15cc5e9bd96b4669e531f6de2"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
 metafile = true
@@ -2622,11 +2617,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
 metafile = true
 
 [[files]]
@@ -2815,6 +2805,11 @@ hash = "4607088e3d3dcfb763cfc6fe3d41ca0240b5a98c59c7263d855a671c222f0f14"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monsters.pw.toml"
+hash = "210af831f9630d87a45a9daf26179b20a1fa788949b43c0581608d9defa050dd"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bbbef26097069430126ba44de152dda9c72c8b2ec2ff3c5036d526f069de8c09"
 metafile = true
@@ -2842,6 +2837,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "56f736c03ef6e3de92edfdc074876443e696b1a7ff61903a7959f0e9c363be49"
 metafile = true
 
 [[files]]
@@ -3020,13 +3020,13 @@ hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
-file = "mods/ribbits.pw.toml"
-hash = "70acbe76903121faa88da57c77a8a1eada9c0e4b58143abb8ccd57b766b14148"
+file = "mods/rpg-better-elderguardian.pw.toml"
+hash = "238ec2471aaf3dde9d48a55ae627bdc1da76a26ac14052742d648efcc4407266"
 metafile = true
 
 [[files]]
-file = "mods/rpg-better-elderguardian.pw.toml"
-hash = "238ec2471aaf3dde9d48a55ae627bdc1da76a26ac14052742d648efcc4407266"
+file = "mods/rustic-engineer.pw.toml"
+hash = "38ed5f8d258c215a755294c23c8b5780bb21626723709014dda249a8f87bd1d7"
 metafile = true
 
 [[files]]
@@ -3172,6 +3172,11 @@ metafile = true
 [[files]]
 file = "mods/trials-chambers-reuploaded.pw.toml"
 hash = "60dcc12f1431441ab11d1c431b69e73cc2332fd64fd28a914dc88d0ef81c86b6"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
 metafile = true
 
 [[files]]
