@@ -1,0 +1,17 @@
+filename = 'MEED-1.20.1-7.9.jar'
+name = 'Moderately Enough Effect Descriptions (MEED)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "MEED-1.20.1-7.9 (Wan's Ancient Beasts Update)"
+
+[download]
+hash = '4b57c0116b96043a10a938a8e1a5c2979f6b08f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7758456
+project-id = 918638

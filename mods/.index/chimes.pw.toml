@@ -1,0 +1,17 @@
+filename = 'Chimes-v2.1.1-1.20.1-Forge.jar'
+name = 'Chimes'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Chimes-v2.1.1-1.20.1-Forge'
+
+[download]
+hash = '16acabbde469a13d7d0bb348b5173785c81858f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7529012
+project-id = 350464

@@ -1,0 +1,17 @@
+filename = 'BTP-Forge-1.20.1-2.0.0.jar'
+name = 'Beautiful Potions [MOD EDITION] | 2.0 UPDATE! '
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Beautiful Potions - MC 1.20.1 - 2.0.0'
+
+[download]
+hash = 'f69b22dec0f2057c5c9414927efd36c6a3a74176'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7743835
+project-id = 1298070

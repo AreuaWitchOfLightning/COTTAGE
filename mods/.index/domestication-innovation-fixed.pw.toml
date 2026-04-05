@@ -1,0 +1,17 @@
+filename = 'domesticationinnovation-1.7.2-1.20.1.jar'
+name = 'Domestication Innovation Fixed'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'domesticationinnovation-1.7.2-1.20.1.jar'
+
+[download]
+hash = '1de3060fa3708d4ddfbadfdf528dc5a44e357aba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6717213
+project-id = 1298091

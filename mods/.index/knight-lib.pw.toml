@@ -1,0 +1,17 @@
+filename = 'knightlib-forge-1.20.1-1.4.3.jar'
+name = 'Knight Lib'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE] Knight Lib 1.4.3-1.20.1'
+
+[download]
+hash = '77368ef8345914fed7db92002517f9cd959d0c4c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7358169
+project-id = 1105855

@@ -1,0 +1,17 @@
+filename = 'createbetterfps-1.20.1-1.1.1.jar'
+name = 'Create Better FPS'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createbetterfps-1.20.1-1.1.1.jar'
+
+[download]
+hash = '519f436f67c316db546cbab54a03fdbfd17fe9f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6716449
+project-id = 1217518

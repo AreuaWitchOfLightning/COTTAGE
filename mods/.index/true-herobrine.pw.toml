@@ -1,0 +1,17 @@
+filename = 'TrueHerobrine_1.1+1.20.1.jar'
+name = 'True Herobrine'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TrueHerobrine_1.1+1.20.1.jar'
+
+[download]
+hash = 'b266adeb6fc50f7086abdf446555667fd444780f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4962512
+project-id = 914926

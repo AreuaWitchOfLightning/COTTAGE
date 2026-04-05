@@ -1,0 +1,17 @@
+filename = 'tempad-forge-1.20.1-2.3.4.jar'
+name = 'Tempad'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Tempad 2.3.4'
+
+[download]
+hash = '04f4c46e58317dca0e5665cee65a7fba730112ad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5515064
+project-id = 514923

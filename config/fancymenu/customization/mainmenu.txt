@@ -731,7 +731,7 @@ element {
 
 element {
   interactable = false
-  source = {"placeholder":"local","values":{"key":"cabin_titlescreen_version"}} DEV
+  source = {"placeholder":"local","values":{"key":"cabin_titlescreen_version"}} 2.1.3
   source_mode = direct
   shadow = true
   scale = 1.0

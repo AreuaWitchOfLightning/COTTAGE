@@ -1,0 +1,17 @@
+filename = 'exposure_polaroid-forge-1.20.1-1.1.2.jar'
+name = 'Exposure: Polaroid'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Exposure Polaroid - Forge 1.20.1 - 1.1.2'
+
+[download]
+hash = 'c7d61cf3f12130901d4cbc584e967e96ad695828'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7661234
+project-id = 1207005

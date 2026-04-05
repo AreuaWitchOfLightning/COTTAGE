@@ -1,0 +1,17 @@
+filename = 'backpacked-forge-1.20.1-3.0.6.jar'
+name = 'Backpacked'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Backpacked 3.0.6'
+
+[download]
+hash = '22d76eceaf35e07c218cef15d02d317c72a83116'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7624219
+project-id = 352835

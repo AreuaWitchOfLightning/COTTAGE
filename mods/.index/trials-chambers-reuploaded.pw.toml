@@ -1,0 +1,17 @@
+filename = 'Trials-2.3.4.jar'
+name = 'Trials Chambers Reuploaded'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Trials-2.3.4.jar'
+
+[download]
+hash = '791368beed656939d39bf60250d2dae117eebfc2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7280359
+project-id = 1392862

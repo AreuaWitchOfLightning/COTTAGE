@@ -1,0 +1,17 @@
+filename = 'mavm-1.2.6-mc1.20.1.jar'
+name = 'More Axolotl Variants Mod'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.2.6 (1.20.1+)'
+
+[download]
+hash = '1f7cc13546c717f258bf8ebbbcdb71ce96d11a5a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5242620
+project-id = 498797

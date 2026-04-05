@@ -1,0 +1,17 @@
+filename = 'hexcasting-forge-1.20.1-0.11.3.jar'
+name = 'Hex Casting'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'forge-1.20.1-0.11.3'
+
+[download]
+hash = '7005974f352bae9f34d0d2492e69bf9437f945e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7250896
+project-id = 569849

@@ -1,0 +1,17 @@
+filename = 'watut-forge-1.20.1-1.2.3.jar'
+name = 'What Are They Up To (Watut)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'watut-forge-1.20.1-1.2.3.jar'
+
+[download]
+hash = 'd376debf1f96f37dbedf56919baeb7da2dcef9ab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6315241
+project-id = 945479

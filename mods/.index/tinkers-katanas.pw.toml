@@ -1,0 +1,17 @@
+filename = 'TinkersKatanas-1.20.1-1.4.3.jar'
+name = "Tinkers' Katanas"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TinkersKatanas-1.20.1-1.4.3'
+
+[download]
+hash = '81601755c7b0597f14e522f6f6d4c4e8e2d89774'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7677765
+project-id = 884944

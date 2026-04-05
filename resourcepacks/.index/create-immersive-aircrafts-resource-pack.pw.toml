@@ -1,0 +1,17 @@
+filename = 'Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip'
+name = 'Create Immersive Aircrafts'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Immersive Aircrafts 3.0 (1.21.1)'
+
+[download]
+hash = 'c7d54c6f80399c0444b4b579cc3ba090f3a127a9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7568054
+project-id = 821020
