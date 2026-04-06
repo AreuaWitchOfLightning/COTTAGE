@@ -1,28 +1,4 @@
 # Minecraft
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-local/
-saves/
-mods/
-logs/
-crash-reports/
-backups/
-resourcepacks/
-!resourcepacks/CABIN/
-server-resource-packs/
-screenshots/
-downloads/
-modernfix/
-fancymenu_data/
-ESM/
-panoramas/
-
-icon.png
-options.txt
-rhino.local.properties
-usercache.json
-usernamecache.json
-emi.json
 
 # Pakku
 build/
@@ -65,11 +41,6 @@ rhino.local.properties
 usercache.json
 usernamecache.json
 resourcepacks/clutternomore
-
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 # Node.js
 **/node_modules/
@@ -125,8 +96,7 @@ config/ichunutil/themes/
 config/gtceu.yaml
 defaultconfigs/ftbultimine/ftbultimine-*.snbt
 
-<<<<<<< Updated upstream
-=======
+
 # Idea
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -136,7 +106,6 @@ defaultconfigs/ftbultimine/ftbultimine-*.snbt
 
 # Misc
 **.zip
->>>>>>> Stashed changes
 # Linux
 *~
 .fuse_hidden*
@@ -153,15 +122,6 @@ $RECYCLE.BIN/
 # macOS
 .DS_Store
 .AppleDouble
-<<<<<<< Updated upstream
-.LSOverride
-<<<<<<< Updated upstream
-=======
 .LSOverride
 .probe/*
 !.probe/probe-settings.json
->>>>>>> Stashed changes
-=======
-.probe/*
-!.probe/probe-settings.json
->>>>>>> Stashed changes

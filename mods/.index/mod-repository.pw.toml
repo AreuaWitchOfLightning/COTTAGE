@@ -1,0 +1,17 @@
+filename = 'cc-tweaked-1.20.1-forge-1.117.0.jar'
+name = 'Mod Repository'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[adapted]cc-tweaked-1.20.1-forge-1.117.0.jar'
+
+[download]
+hash = 'ac55aeb61eb0da16467145208d719ddcd4e9bdf3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7483052
+project-id = 1435463

@@ -1,0 +1,17 @@
+filename = 'just_blahaj-3.1.0-forge-1.20.1.jar'
+name = 'Just Blahaj'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'just_blahaj-3.1.0-forge-1.20.1.jar'
+
+[download]
+hash = 'f1483dd29e6f825106a68a0a4a066302a0b1cdf1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7567581
+project-id = 1055947

@@ -1,0 +1,17 @@
+filename = 'KubeJSGUI_Forge_1_20_1.jar'
+name = 'KubeJS GUI'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'KubeJSGUI_Forge_1_20_1.jar'
+
+[download]
+hash = 'f162a7a48c9431ba9429ad11349dcf6b9c2b167f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7757149
+project-id = 1383507

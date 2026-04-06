@@ -1,0 +1,17 @@
+filename = 'createenchantablemachinery-3.6.0+mc1.20.1-forge.jar'
+name = 'Create: Enchantable Machinery'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create: Enchantable Machinery 3.6.0 Forge'
+
+[download]
+hash = 'd1ed8c55bc4efa56e60b2553f76d6c2d55da1226'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7766936
+project-id = 1061749

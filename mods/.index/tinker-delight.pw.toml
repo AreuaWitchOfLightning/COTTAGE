@@ -1,0 +1,17 @@
+filename = 'tinkersdelight-1.2.0-forge-1.20.1.jar'
+name = "Tinkers Delight (A Farmer's Delight Add-on)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tinkersdelight-1.2.0-forge-1.20.1.jar'
+
+[download]
+hash = '2814bae8de4ffc93ea580d45e0c39226a2423161'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6169637
+project-id = 1005386

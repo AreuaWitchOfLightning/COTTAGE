@@ -1,0 +1,17 @@
+filename = 'lexiconfig-forge-1.4.18-1.jar'
+name = 'Lexiconfig'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE] Lexiconfig 1.4.18-1'
+
+[download]
+hash = '1c10e44a30f9cf6c453a737657763fcdfd620ac2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6513950
+project-id = 1019452

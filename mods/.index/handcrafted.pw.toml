@@ -1,0 +1,17 @@
+filename = 'handcrafted-forge-1.20.1-3.0.6.jar'
+name = 'Handcrafted'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Handcrafted 3.0.6'
+
+[download]
+hash = 'f1b9a009529134c736c59d6d192d53a4a25e5e5f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5118729
+project-id = 538214

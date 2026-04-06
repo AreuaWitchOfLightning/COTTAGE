@@ -1,0 +1,17 @@
+filename = 'all_bark_all_bite-1.20.1-1.0.2.jar'
+name = 'All Bark, All Bite'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'all_bark_all_bite-1.20.1-1.0.2.jar'
+
+[download]
+hash = '24629ed7066a1976e93571d3607dfa3c6f67646e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4817227
+project-id = 833755

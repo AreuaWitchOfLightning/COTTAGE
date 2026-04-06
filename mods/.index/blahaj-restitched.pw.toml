@@ -1,0 +1,17 @@
+filename = 'blahaj-forge-1.20.1-0.1.8.jar'
+name = 'Blahaj Restitched'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Blåhaj Restitched v0.1.8'
+
+[download]
+hash = '6c863b00ccbf5ef93e7a1ae7cc5c6546970707a0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5330281
+project-id = 963489

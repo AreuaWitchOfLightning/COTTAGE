@@ -1,0 +1,17 @@
+filename = 'brewchew-1.20.1-5.8.jar'
+name = "Brew'n Chew"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Brew'n Chew - 1.20.1 - 5.8"
+
+[download]
+hash = 'c50716e72b0de33a7b07caf8bf7642d32f9ab682'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6724214
+project-id = 982363

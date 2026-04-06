@@ -1,0 +1,17 @@
+filename = 'emi_ores-1.2+1.20.1+forge.jar'
+name = 'EMI Ores'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emi_ores-1.2+1.20.1+forge.jar'
+
+[download]
+hash = 'c821f26e4a00c14fb453bfdb7628aec59fd2acf1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6060341
+project-id = 974009
