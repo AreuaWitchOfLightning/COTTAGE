@@ -1,5 +1,6 @@
 # Minecraft
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 local/
 saves/
 mods/
@@ -30,6 +31,8 @@ build/
 !pakku.json
 !pakku-lock.json
 =======
+=======
+>>>>>>> Stashed changes
 # logs/
 crash-reports/
 downloads/
@@ -63,6 +66,9 @@ usercache.json
 usernamecache.json
 resourcepacks/clutternomore
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 # Node.js
@@ -149,8 +155,13 @@ $RECYCLE.BIN/
 .AppleDouble
 <<<<<<< Updated upstream
 .LSOverride
+<<<<<<< Updated upstream
 =======
 .LSOverride
+.probe/*
+!.probe/probe-settings.json
+>>>>>>> Stashed changes
+=======
 .probe/*
 !.probe/probe-settings.json
 >>>>>>> Stashed changes
