@@ -1,0 +1,17 @@
+filename = 'Exposure-CreateCompatibility.zip'
+name = 'Exposure-Create Compatibility'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Exposure-Create Compatibility V1.1'
+
+[download]
+hash = 'd396fb9049f7664a1ed18fbcd8a8588e4d2c00a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5371732
+project-id = 1024724

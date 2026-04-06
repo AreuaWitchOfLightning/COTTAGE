@@ -6,11 +6,16 @@
 	"vanilla",
 	"mod_resources",
 	"Moonlight Mods Dynamic Assets",
+	"file/CABIN",
+	"file/CABIN Resource Pack Overrides",
 	"file/Create Computers 1.2.1 - 1.20.1.zip",
 	"file/moromoro's_create_style_prettypipes.zip",
-	"file/CreateSophisticatedBackpacks.zip",
-	"file/CABIN",
-	"file/CABIN Resource Pack Overrides"
+	"file/Create-Construction-Wands.zip",
+	"file/Create-Energistics-1.1.2-mc1.20.1.zip",
+	"file/Exposure-CreateCompatibility.zip",
+	"file/Thermal_Create_1.20.zip",
+	"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 3.0.zip",
+	"file/moromoro\u0027s_create_style_prettypipes.zip"
   ],
 	"pack_overrides": {
 		"file/CABIN": {
@@ -19,10 +24,16 @@
 		"programer_art": {
 			"hidden": true
 		},
-		"file/moromoro's_create_style_prettypipes.zip": {
-			"force_compatible": true
-		},
-		"file/CreateSophisticatedBackpacks.zip": {
+		"1": [
+			"file/moromoro's_create_style_prettypipes.zip",
+			"file/Create-Construction-Wands.zip",
+			"file/Create-Energistics-1.1.2-mc1.20.1.zip",
+			"file/Exposure-CreateCompatibility.zip",
+			"file/Thermal_Create_1.20.zip",
+			"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 3.0.zip",
+			"file/moromoro\u0027s_create_style_prettypipes.zip"
+		],
+		"$$1": {
 			"force_compatible": true
 		}
 	}

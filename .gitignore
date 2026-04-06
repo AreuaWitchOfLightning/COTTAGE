@@ -1,4 +1,5 @@
 # Minecraft
+<<<<<<< Updated upstream
 local/
 saves/
 mods/
@@ -28,6 +29,41 @@ build/
 !pakku.jar
 !pakku.json
 !pakku-lock.json
+=======
+# logs/
+crash-reports/
+downloads/
+panoramas/
+# icon.png
+options.txt
+emi.json
+
+.vscode
+.mixin.out
+backups
+config
+coremods
+ESM
+fancymenu_data
+figura
+local
+logs
+modernfix
+moonlight-global-datapacks
+music_sheets
+patchouli_books
+saves
+schematics
+screenshots
+enigmatic_persistence.dat
+index.tomlkubejs_client_data.json
+patchouli_data.json
+rhino.local.properties
+usercache.json
+usernamecache.json
+resourcepacks/clutternomore
+
+>>>>>>> Stashed changes
 
 # Node.js
 **/node_modules/
@@ -83,6 +119,18 @@ config/ichunutil/themes/
 config/gtceu.yaml
 defaultconfigs/ftbultimine/ftbultimine-*.snbt
 
+<<<<<<< Updated upstream
+=======
+# Idea
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Misc
+**.zip
+>>>>>>> Stashed changes
 # Linux
 *~
 .fuse_hidden*
@@ -99,4 +147,10 @@ $RECYCLE.BIN/
 # macOS
 .DS_Store
 .AppleDouble
+<<<<<<< Updated upstream
 .LSOverride
+=======
+.LSOverride
+.probe/*
+!.probe/probe-settings.json
+>>>>>>> Stashed changes

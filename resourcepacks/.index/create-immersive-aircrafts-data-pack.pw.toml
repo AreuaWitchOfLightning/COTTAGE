@@ -1,0 +1,17 @@
+filename = 'Create Immersive Aircrafts Datapack 1.20.1 - 3.0.zip'
+name = 'Create Immersive Aircrafts - Recipes'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Immersive Aircrafts 3.0 - Datapack (1.20.1)'
+
+[download]
+hash = '758b68f72cf26fe95d3d1ce1c06ae87aa9da0f68'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7568073
+project-id = 870545
