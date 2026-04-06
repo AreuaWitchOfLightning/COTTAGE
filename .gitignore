@@ -125,3 +125,4 @@ $RECYCLE.BIN/
 .LSOverride
 .probe/*
 !.probe/probe-settings.json
+.vscode
