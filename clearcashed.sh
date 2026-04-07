@@ -23,4 +23,5 @@ rm -R 'rhino.local.properties'
 rm -R 'usercache.json'
 rm -R 'usernamecache.json'
 rm -R 'resourcepacks/clutternomore'
+rm -R 'map_atlases'
 cp -R '/home/aleksandra/Documents/projects/minecraft/Cottage/config/' .

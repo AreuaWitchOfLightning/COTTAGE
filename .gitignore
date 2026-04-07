@@ -126,3 +126,4 @@ $RECYCLE.BIN/
 .probe/*
 !.probe/probe-settings.json
 .vscode
+*.disabled
