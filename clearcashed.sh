@@ -24,4 +24,7 @@ rm -R 'usercache.json'
 rm -R 'usernamecache.json'
 rm -R 'resourcepacks/clutternomore'
 rm -R 'map_atlases'
+rm -R 'emi.json'
+rm -R 'kubejs_client_data.json'
+rm -R 'crash-reports'
 cp -R '/home/aleksandra/Documents/projects/minecraft/Cottage/config/' .

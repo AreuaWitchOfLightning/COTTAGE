@@ -1,0 +1,17 @@
+filename = 'tinkerswithenchants-1.0.1.jar'
+name = 'Tinkers With Enchants'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tinkerswithenchants-1.0.1.jar'
+
+[download]
+hash = '740f4a5596c88e01f94426f1b38e541750d5c432'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7833090
+project-id = 1484624
