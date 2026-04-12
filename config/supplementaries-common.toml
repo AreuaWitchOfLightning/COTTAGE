@@ -122,8 +122,6 @@
 		enabled = true
 		#Allow slimeballs to be thrown
 		throwable_slimeballs = true
-		#Show a slime overlay when you hit an entity with a slimeball
-		overlay = true
 		#Thrown slimeballs will shortly nerf the player jump height. Disable if you don't want this effect as it can be quite powerful
 		#Allowed Values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
 		hinders_jump = "NORMAL_DIFFICULTY"
@@ -338,6 +336,8 @@
 		enabled = true
 		#Dyed Bock types that cannot be cleaned with soap
 		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower", "mna:chimerite_crystal", "botania:floating_flower", ",minecraft:mushroom", "botania:mushroom", "botania:tall_mystical_flower", "botania:petal_block", "morered:network_cable", "xycraft_world:glowing_shiny_aurey_block", "xycraft_world:shiny_aurey_block", "xycraft_world:rgb_lamp", "xycraft_world:glowing_rgb_viewer", "xycraft_world:glowing_matte_rgb_block", "xycraft_world:rgb_lamp_pole", "create:valve_handle", "create:toolbox"]
+		#Allows soap to clean blocks in-world. Disable to prevent in-world block cleaning while keeping soap item and recipes functional
+		block_cleaning_enabled = true
 
 		#This is a map of special blocks that can be cleaned with soap
 		[functional.soap.special_blocks]
@@ -360,6 +360,9 @@
 		#Range: 0 ~ 500
 		cooldown = 60
 		music_disc_heave_ho = true
+		#Makes TNT-like block shot from a cannon explode on impact
+		#Allowed Values: IGNITE, IGNITE_ON_IMPACT, NONE
+		explode_tnt = "IGNITE"
 
 		[functional.cannon.cannonball]
 			enabled = true
@@ -565,13 +568,15 @@
 		#Arrow stacks that can fit inside a quiver. Requires reboot
 		#Range: 1 ~ 9
 		slots = 6
-		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
+		#Increase this number to alter the probability for a Skeleton with quiver to spawn.
 		#Range: 0.0 ~ 1.0
 		quiver_skeleton_spawn_chance = 0.03
 		#Allows quiver to only be used when in offhand or in curio slot
 		only_works_in_curio = false
 		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type
 		quiver_pickup = true
+		#If the chance for a skeleton to spawn with a quiver will be affected by local difficulty. If true, you wont ever see them on easy and very rarely on normal. Similar logic to equipment
+		quiver_skeleton_spawn_affected_by_local_difficulty = true
 
 	[tools.lunch_basket]
 		enabled = true
