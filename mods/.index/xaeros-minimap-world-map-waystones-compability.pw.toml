@@ -1,0 +1,17 @@
+filename = 'xaeros_waystones_compatibility-1.1 - 1.20.1.jar'
+name = "Xaero's Minimap & World Map - Waystones Compatibility [Forge]"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Xaero's - Waystones Compatibility - Forge - 1.20.1 - 1.1.jar"
+
+[download]
+hash = 'd88355bcf6d731c067ed49146a090758356bd028'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7786445
+project-id = 887484

@@ -128,3 +128,6 @@ $RECYCLE.BIN/
 !.probe/probe-settings.json
 .vscode
 *.disabled
+/xaero
+/XaeroWaypoints_BACKUP240807
+/dragon-survival
