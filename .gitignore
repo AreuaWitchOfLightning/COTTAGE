@@ -6,18 +6,14 @@
 !pakku.jar
 !pakku.json
 !pakku-lock.json
-=======
-=======
->>>>>>> Stashed changes
-# logs/
+logs/
 /crash-reports/
 /downloads/
 /panoramas/
-# icon.png
 /options.txt
 /emi.json
 
-/.vscode
+# Random stuff - Cache and other garbage
 /.mixin.out
 /backups
 /coremods
@@ -40,6 +36,9 @@
 /usercache.json
 /usernamecache.json
 /resourcepacks/clutternomore
+/tconplanner
+/xaero
+/XaeroWaypoints_BACKUP240807
 
 # Node.js
 **/node_modules/
@@ -50,6 +49,7 @@
 # VSCode
 !/.vscode/*.code-workspace
 /.vscode/*
+/.vscode
 
 # ProbeJS
 /kubejs/probe/
@@ -59,10 +59,13 @@
 
 # Client configs (with exceptions below)
 /config/**/*client.*
-
 !/config/sophisticatedstorage-client.toml
 !/config/**/darkmodeeverywhere-client.toml
 !/config/create-client.toml
+dragon-survival
+/dragon-survival
+dragon-survival/*
+/dragon-survival/*
 
 # Configs (generaly ones that tend to edit the date on launch)
 /config/fml.toml
@@ -94,7 +97,6 @@
 /config/ichunutil/themes/
 /config/gtceu.yaml
 /defaultconfigs/ftbultimine/ftbultimine-*.snbt
-/dragon-survival
 
 
 # Idea
@@ -126,12 +128,9 @@ $RECYCLE.BIN/
 .probe/*
 !.probe/probe-settings.json
 .vscode
-*.disabled
-/xaero
-/XaeroWaypoints_BACKUP240807
-/dragon-survival
-dragon-survival/saved_customizations.json
+
+
+# Misc
 /.probe
 /mods/.index
-/tconplanner
-/dragon-survival
+*.disabled
