@@ -27,4 +27,7 @@ rm -R 'map_atlases'
 rm -R 'emi.json'
 rm -R 'kubejs_client_data.json'
 rm -R 'crash-reports'
+rm -R 'xaero'
+rm -R XaeroWaypoints_BACKUP*
+rm -R 'tconplanner'
 cp -R '/home/aleksandra/Documents/projects/minecraft/Cottage/config/' .
