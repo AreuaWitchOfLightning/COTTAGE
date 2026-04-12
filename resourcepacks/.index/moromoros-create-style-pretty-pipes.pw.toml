@@ -1,0 +1,17 @@
+filename = "moromoro's_create_style_prettypipes.zip"
+name = "moromoro's create style Pretty Pipes"
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "moromoro's_create_style_prettypipes.zip"
+
+[download]
+hash = '4fdd62c1f3e00b49139f64ffde3b19c1369e68b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5062291
+project-id = 967378

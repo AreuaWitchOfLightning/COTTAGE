@@ -1,0 +1,17 @@
+filename = 'Create-Energistics-1.1.2-mc1.20.1.zip'
+name = 'Create Energistics'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Energistics 1.1.2 mc1.20.1'
+
+[download]
+hash = 'e6003a13253bd267a90fd80bf51afd6763cf6603'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6688455
+project-id = 1019297
