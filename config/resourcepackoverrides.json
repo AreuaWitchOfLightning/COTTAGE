@@ -15,7 +15,10 @@
 	"file/Exposure-CreateCompatibility.zip",
 	"file/Thermal_Create_1.20.zip",
 	"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 3.0.zip",
-	"file/moromoro\u0027s_create_style_prettypipes.zip"
+	"file/moromoro\u0027s_create_style_prettypipes.zip",
+	"file/moromoro's_create_style_prettypipes.zip",
+	"file/SmartCompass_v2.2 [1.20.1].zip",
+	"file/Create Styled Ad Astra NASA Workbench.zip"
   ],
 	"pack_overrides": {
 		"file/CABIN": {
@@ -31,7 +34,9 @@
 			"file/Exposure-CreateCompatibility.zip",
 			"file/Thermal_Create_1.20.zip",
 			"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 3.0.zip",
-			"file/moromoro\u0027s_create_style_prettypipes.zip"
+			"file/CreateSophiStorage.zip",
+			"file/moromoro\u0027s_create_style_prettypipes.zip",
+			"file/moromoro's_create_style_prettypipes.zip"
 		],
 		"$$1": {
 			"force_compatible": true
