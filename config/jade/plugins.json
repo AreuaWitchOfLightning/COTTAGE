@@ -51,10 +51,12 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "treechop": {
-    "plugin": true,
-    "show_tree_block_counts": true,
-    "show_num_chops_remaining": true
+  "mbd2": {
+    "recipe_logic_provider": true,
+    "multiblock_provider": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
   },
   "jadeaddons.create": {
     "filter": true,
@@ -66,6 +68,18 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -74,8 +88,8 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "functionalstorage": {
-    "armory": true
+  "gravestone": {
+    "grave": true
   },
   "balm": {
     "jade": true
@@ -91,38 +105,5 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
-  },
-  "mbd2": {
-    "recipe_logic_provider": true,
-    "multiblock_provider": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
-  "jadeaddons.lootr": {
-    "info": true
-  },
-  "reliquary": {
-    "pedestal": true,
-    "altar": true,
-    "mortar": true,
-    "cauldron": true
-  },
-  "supplementaries": {
-    "hat_stand": true
-  },
-  "waystones": {
-    "waystone": true
-  },
-  "gravestone": {
-    "grave": true
-  },
-  "appliedcreate": {
-    "grid_node_state": true,
-    "power_storage": true
   }
 }
