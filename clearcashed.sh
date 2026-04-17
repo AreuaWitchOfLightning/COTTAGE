@@ -30,4 +30,7 @@ rm -R 'crash-reports'
 rm -R 'xaero'
 rm -R XaeroWaypoints_BACKUP*
 rm -R 'tconplanner'
+rm -R 'data'
+rm -R 'screenshots'
+rm -R 'chiselsandbits'
 cp -R '/home/aleksandra/Documents/projects/minecraft/Cottage/config/' .
