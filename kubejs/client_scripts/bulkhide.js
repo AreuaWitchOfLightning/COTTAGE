@@ -63,8 +63,8 @@ JEIEvents.hideItems(event => {
     event.hide("create:crushed_raw_quicksilver")
     event.hide("create:crushed_raw_aluminum")
     event.hide("create:crushed_raw_uranium")
-    event.hide("create:sturdy_sheet")
-    event.hide("create:unprocessed_obsidian_sheet")
+    // event.hide("create:sturdy_sheet")
+    // event.hide("create:unprocessed_obsidian_sheet")
 
     event.hide(/^createdeco:.*coin/)
 

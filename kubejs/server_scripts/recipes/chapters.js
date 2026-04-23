@@ -242,7 +242,7 @@ ServerEvents.recipes(event => {
 
     // - - - - - Chapter 1B - - - - -
     // Sturdy sheets are not used. It is replaced by reinforced mechanisms
-    event.remove({ id: "create:sequenced_assembly/sturdy_sheet" })
+    // event.remove({ id: "create:sequenced_assembly/sturdy_sheet" })
     // Magma blocks
     event.blasting("minecraft:magma_block", "minecraft:deepslate")
     // Magma to obsidian is a vanilla create recipe
