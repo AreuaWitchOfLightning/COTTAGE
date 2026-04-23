@@ -107,7 +107,7 @@ dragon-survival/*
 .idea/**/shelf
 
 # Misc
-**.zip
+# **.zip
 # Linux
 *~
 .fuse_hidden*
@@ -135,4 +135,4 @@ $RECYCLE.BIN/
 /mods/.index
 *.disabled
 /chiselsandbits
-/shaderpacks
+/shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6
